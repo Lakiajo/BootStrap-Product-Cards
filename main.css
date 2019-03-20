@@ -1,3 +1,17 @@
 body {
     background-color: #2C98B8;
+    padding-left: 75px;
+}
+#img {
+    height: 280px;
+    width: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+.card {
+    border: 5px solid rgb(184, 44, 82);
+    width: auto;
 }
